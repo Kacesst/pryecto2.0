@@ -1,0 +1,191 @@
+[
+    {
+        "nombre": "Jordan 1 Retro High OG Spider-Man Across the Spider-Verse",
+        "tipo": "Zapatillas",
+        "marca": "Nike",
+        "modelo": "Spider-Man Across the Spider-Verse",
+        "color": "Black/Red",
+        "precio": 180,
+        "stock": {
+            "US 9": 10,
+            "US 9.5": 10,
+            "US 10": 10
+        },
+        "descripcion": "Precio retail 200 US$, Fecha de lanzamiento 20/05/2023",
+        "tallas_stock": {
+            "US 9": 10,
+            "US 9.5": 10,
+            "US 10": 10
+        },
+        "diseño": null
+    },
+    {
+        "nombre": "SB Dunk Low Travis Scott",
+        "tipo": "Zapatillas",
+        "marca": "Nike",
+        "modelo": "Low Travis Scott (Regular Box)",
+        "color": "BLACK/BLACK-PARACHUTE BEIGE-PETRA BROWN",
+        "precio": 1718,
+        "stock": {
+            "US 9": 10,
+            "US 9.5": 10,
+            "US 10": 10
+        },
+        "descripcion": "Color BLACK/BLACK-PARACHUTE BEIGE-PETRA BROWN, Precio retail 150 US$, Fecha de lanzamiento 29/02/2020",
+        "tallas_stock": {
+            "US 9": 10,
+            "US 9.5": 10,
+            "US 10": 10
+        },
+        "diseño": null
+    },
+    {
+        "nombre": "Adidas Forum Low Bad Bunny Pink Easter Eg",
+        "tipo": "Zapatillas",
+        "marca": "Adidas",
+        "modelo": "Bad Bunny Pink Easter Egg",
+        "color": "PINK/DARK PINK",
+        "precio": 510,
+        "stock": {
+            "US 9": 10,
+            "US 9.5": 10
+        },
+        "descripcion": "Color: PINK/DARK PINK, Precio retail: 160 US$, Fecha de lanzamiento: 04/04/2021",
+        "tallas_stock": {
+            "US 9": 10,
+            "US 9.5": 10
+        },
+        "diseño": null
+    },
+    {
+        "nombre": "Adidas Yeezy Boost 700 Inertia",
+        "tipo": "Zapatillas",
+        "marca": "Adidas",
+        "modelo": "700",
+        "color": "Inertia",
+        "precio": 381,
+        "stock": {
+            "US 8.5": 10,
+            "US 9": 10,
+            "US 9.5": 10
+        },
+        "descripcion": "Precio retail 300 US$, Fecha de lanzamiento: 09/03/2019",
+        "tallas_stock": {
+            "US 8.5": 10,
+            "US 9": 10,
+            "US 9.5": 10
+        },
+        "diseño": null
+    },
+    {
+        "nombre": "Adidas Yeezy Boost 700 Wave Runner",
+        "tipo": "Zapatillas",
+        "marca": "Adidas",
+        "modelo": "700",
+        "color": "Wave Runner",
+        "precio": 448,
+        "stock": {
+            "US 10.5": 10
+        },
+        "descripcion": "Descripción del producto: Lanzamiento original: noviembre de 2017, Relanzamiento: marzo de 2022",
+        "tallas_stock": {
+            "US 10.5": 10
+        },
+        "diseño": null
+    },
+    {
+        "nombre": "Adidas Yeezy Slide Bone",
+        "tipo": "Zapatillas",
+        "marca": "Adidas",
+        "modelo": "Yeezy Slide",
+        "color": "Bone",
+        "precio": 125,
+        "stock": {
+            "US 8": 10,
+            "US 9": 10,
+            "US 9.5": 10,
+            "US 10": 10
+        },
+        "descripcion": "Precio retail 60 US$, Fecha de lanzamiento: 31/05/2022",
+        "tallas_stock": {
+            "US 8": 10,
+            "US 9": 10,
+            "US 9.5": 10,
+            "US 10": 10
+        },
+        "diseño": null
+    },
+    
+    {
+        "nombre": "Adidas Yeezy Boost 350 V2 Black Red (2017/2020)",
+        "tipo": "Zapatillas",
+        "marca": "Adidas",
+        "modelo": "350 V2",
+        "color": "Black Red (2017/2020)",
+        "precio": 250,
+        "stock": {
+            "US 8": 10,
+            "US 9": 10
+        },
+        "descripcion": "Upper en Primeknit negro, franja lateral en malla transparente",
+        "tallas_stock": {
+            "US 8": 10,
+            "US 9": 10
+        },
+        "diseño": null
+    },
+    {
+        "nombre": "Vans Authentic Mac Miller Swimming",
+        "tipo": "Zapatillas",
+        "marca": "Vans",
+        "modelo": "Authentic",
+        "color": "Mac Miller Swimming",
+        "precio": 500,
+        "stock": {
+            "US 9": 10
+        },
+        "descripcion": "Precio retail 100 US$, Fecha de lanzamiento: 03/08/2023, Rest In Peace Mac <3",
+        "tallas_stock": {
+            "US 9": 10
+        },
+        "diseño": null
+    },
+    {
+        "nombre": "Camiseta Gucci x The North Face",
+        "tipo": "Camiseta",
+        "marca": "Gucci",
+        "modelo": null,
+        "color": "Roja y Blanca",
+        "precio": 266,
+        "stock": {
+            "US M": 10,
+            "US L": 10,
+            "US XL": 10
+        },
+        "descripcion": "Gucci x The North Face",
+        "diseño": null,
+        "tallas_stock": {
+            "US M": 10,
+            "US L": 10,
+            "US XL": 10
+        }
+    },
+    {
+        "nombre": "Hoodie BAPE City Camo Shark Full Zip Hoodie (2023)",
+        "tipo": "Hoodie",
+        "marca": "BAPE",
+        "modelo": "BAPE City Camo Shark Full Zip Hoodie (2023)",
+        "color": "472",
+        "precio": 472,
+        "stock": {
+            "US L": 10,
+            "US XL": 10
+        },
+        "descripcion": "Hoodie BAPE City Camo Shark Full Zip (2023)",
+        "diseño": null,
+        "tallas_stock": {
+            "US L": 10,
+            "US XL": 10
+        }
+    }
+]
